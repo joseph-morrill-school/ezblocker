@@ -1,0 +1,10 @@
+D:\Documents\Important\College\2013-2014\Open-Source Software\EZBlocker\Spotify\bin\Debug\EZBlocker.exe.config
+D:\Documents\Important\College\2013-2014\Open-Source Software\EZBlocker\Spotify\bin\Debug\EZBlocker.exe
+D:\Documents\Important\College\2013-2014\Open-Source Software\EZBlocker\Spotify\bin\Debug\EZBlocker.pdb
+D:\Documents\Important\College\2013-2014\Open-Source Software\EZBlocker\Spotify\bin\Debug\EZBlocker.xml
+D:\Documents\Important\College\2013-2014\Open-Source Software\EZBlocker\Spotify\obj\x86\Debug\EZBlocker.Form1.resources
+D:\Documents\Important\College\2013-2014\Open-Source Software\EZBlocker\Spotify\obj\x86\Debug\EZBlocker.Resources.resources
+D:\Documents\Important\College\2013-2014\Open-Source Software\EZBlocker\Spotify\obj\x86\Debug\EZBlocker.vbproj.GenerateResource.Cache
+D:\Documents\Important\College\2013-2014\Open-Source Software\EZBlocker\Spotify\obj\x86\Debug\EZBlocker.exe
+D:\Documents\Important\College\2013-2014\Open-Source Software\EZBlocker\Spotify\obj\x86\Debug\EZBlocker.xml
+D:\Documents\Important\College\2013-2014\Open-Source Software\EZBlocker\Spotify\obj\x86\Debug\EZBlocker.pdb
